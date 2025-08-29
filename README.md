@@ -18,24 +18,23 @@ I specialize in building **scalable full-stack applications**, crafting **intera
 ### ⚡ Tech Stack & Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="40" /> <b></b> &nbsp;&nbsp;
-  
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript - Frontend scripting language"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java - OOP language for backend & apps"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++ - High-performance programming"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React JS - Frontend library"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js - Backend runtime"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js - Web framework"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5 - Web structure"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3 - Styling"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB - NoSQL Database"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" title="Bootstrap - CSS Framework"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL - Relational Database"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS - Utility-first framework"/> &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" title="DSA - Data Structures & Algorithms"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="40" title="AWS - Cloud Services"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux - OS & Shell"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript - Superset of JS"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker - DevOps & Containers"/> &nbsp;&nbsp;
 </p>
 
 ---
@@ -43,9 +42,9 @@ I specialize in building **scalable full-stack applications**, crafting **intera
 ### 🌐 Connect with Me  
 
 <p align="center">
-<a href="https://github.com/aftab0045" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45" style="margin:15px;"/></a>
-<a href="https://www.linkedin.com/in/aftab-attar-344094268/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin:15px;"/></a>
-<a href="https://x.com/aftab_attar_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" style="margin:15px;"/></a>
+<a href="https://github.com/aftab0045" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45" style="margin:15px;" title="GitHub - My projects"/></a>
+<a href="https://www.linkedin.com/in/aftab-attar-344094268/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin:15px;" title="LinkedIn - Let's connect"/></a>
+<a href="https://x.com/aftab_attar_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="45" style="margin:15px; border-radius:8px; padding:4px;" title="Follow me on X (Twitter)"/></a>
 </p>
 
 ---

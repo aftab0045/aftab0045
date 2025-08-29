@@ -18,10 +18,10 @@ I specialize in building **scalable full-stack applications**, crafting **intera
 ### ⚡ Tech Stack & Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" /> <b>JavaScript</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40" /> <b>Java</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" /> <b>C++</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40" /> <b>React JS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" /> <b></b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40" /> <b></b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" /> <b></b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" /> <b></b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> <b>Node JS</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="40" /> <b>Express JS</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="40" /> <b>HTML</b> &nbsp;&nbsp;

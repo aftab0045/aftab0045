@@ -6,7 +6,7 @@ I specialize in building **scalable full-stack applications**, crafting **intera
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me  
 - 🌍 Based in **Pune, India**  
 - 💻 Passionate about **Web Development, Cloud, and Linux Systems**  
 - 🧑‍💻 Currently learning **Advanced DSA & React.js**  
@@ -19,35 +19,26 @@ I specialize in building **scalable full-stack applications**, crafting **intera
 
 <p align="center">
 <!-- Core -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" style="margin:10px;"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" style="margin:10px;"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" style="margin:10px;"/>
+<img src="https://skillicons.dev/icons?i=java,js,cpp" height="45" style="margin:10px;" />
 
 <!-- Frontend -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" style="margin:10px;"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" style="margin:10px;"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" style="margin:10px;"/>
+<img src="https://skillicons.dev/icons?i=react,html,css" height="45" style="margin:10px;" />
 
 <!-- Backend -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" style="margin:10px;"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" height="40" alt="ExpressJS" style="margin:10px;"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" style="margin:10px;"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" style="margin:10px;"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" height="45" style="margin:10px;" />
 
 <!-- Cloud & DevOps -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="AWS" style="margin:10px;"/>
-<img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="40" height="40" alt="Linux" style="margin:10px;"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" style="margin:10px;"/>
+<img src="https://skillicons.dev/icons?i=aws,linux,git" height="45" style="margin:10px;" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me  
 
-<p align="center"> 
-<a href="https://github.com/aftab0045" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" style="margin:15px;" /></a> 
-<a href="https://www.linkedin.com/in/aftab-attar-344094268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" style="margin:15px;" /></a> 
-<a href="https://www.x.com/aftab_attar_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" style="margin:15px;" /></a>
+<p align="center">
+<a href="https://github.com/aftab0045" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45" style="margin:15px;"/></a>
+<a href="https://www.linkedin.com/in/aftab-attar-344094268/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin:15px;"/></a>
+<a href="https://x.com/aftab_attar_" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="45" style="margin:15px; background:white; border-radius:8px; padding:5px;"/></a>
 </p>
 
 ---
@@ -55,21 +46,32 @@ I specialize in building **scalable full-stack applications**, crafting **intera
 ### 🏆 GitHub Stats  
 
 <p align="center">
-<a href="https://github.com/aftab0045">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aftab0045&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aftab0045&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aftab0045&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/aftab0045">
-<img src="https://github-readme-stats.vercel.app/api?username=aftab0045&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</a>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftab0045&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
+---
+
+### 🚀 Featured Projects  
+
+🔹 [**Cab Compare**](#) – Compare cab fares in real-time with a clean React.js UI.  
+🔹 [**Sorting Visualizer**](#) – Interactive tool for visualizing sorting algorithms in Java.  
+🔹 [**Real-Time Coding Platform**](#) – A collaborative coding competition platform.  
+🔹 [**Feed-Stack**](https://github.com/aftab0045/Feed-Stack) – Feedback system with Node.js, Express, and MongoDB.  
+
+---
+
+### 🎯 Fun Badges  
+
 <p align="center">
-<a href="https://github.com/aftab0045">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftab0045&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
+  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Loves-Linux-orange?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-yellow?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Always-Coding-success?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
 ---

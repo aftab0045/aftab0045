@@ -41,11 +41,20 @@ I specialize in building **scalable full-stack applications**, crafting **intera
 
 ### 🌐 Connect with Me  
 
+### 🌐 Connect with Me  
+
 <p align="center">
-<a href="https://github.com/aftab0045" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45" style="margin:15px;" title="GitHub - My projects"/></a>
-<a href="https://www.linkedin.com/in/aftab-attar-344094268/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin:15px;" title="LinkedIn - Let's connect"/></a>
-<a href="https://x.com/aftab_attar_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="45" style="margin:15px; border-radius:8px; padding:4px;" title="Follow me on X (Twitter)"/></a>
+<a href="https://github.com/aftab0045" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" style="margin:15px;" title="GitHub - My projects"/>
+</a>
+<a href="https://www.linkedin.com/in/aftab-attar-344094268/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin:15px;" title="LinkedIn - Let's connect"/>
+</a>
+<a href="https://x.com/aftab_attar_" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="45" style="margin:15px;" title="Follow me on X (Twitter)"/>
+</a>
 </p>
+
 
 ---
 

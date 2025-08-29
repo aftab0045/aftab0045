@@ -35,7 +35,7 @@ I specialize in building **scalable full-stack applications**, crafting **intera
   <img src="https://skillicons.dev/icons?i=linux" height="40" /> <b></b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" height="40" /> <b></b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="40" /> <b></b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" height="40" /> <b></b>
+  
 </p>
 
 ---

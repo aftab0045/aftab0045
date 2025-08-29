@@ -17,18 +17,44 @@ I specialize in building **scalable full-stack applications**, crafting **intera
 
 ### ⚡ Tech Stack & Skills  
 
+### ⚡ Tech Stack & Skills  
+
 <p align="center">
-<!-- Core -->
-<img src="https://skillicons.dev/icons?i=java,js,cpp" height="45" style="margin:10px;" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=js" height="40" /> <b>JavaScript</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40" /> <b>Java</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" /> <b>C++</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" /> <b>React JS</b> &nbsp;&nbsp;
+</p>
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,html,css" height="45" style="margin:10px;" />
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> <b>Node JS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="40" /> <b>Express JS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" /> <b>HTML</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" /> <b>CSS</b> &nbsp;&nbsp;
+</p>
 
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" height="45" style="margin:10px;" />
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> <b>MongoDB</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> <b>Bootstrap</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" /> <b>SQL</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> <b>Tailwind CSS</b> &nbsp;&nbsp;
+</p>
 
-<!-- Cloud & DevOps -->
-<img src="https://skillicons.dev/icons?i=aws,linux,git" height="45" style="margin:10px;" />
+<p align="center">
+  <!-- Row 4 -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" /> <b>DSA</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="40" /> <b>AWS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="40" /> <b>Linux</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="40" /> <b>TypeScript</b> &nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <!-- Row 5 -->
+  <img src="https://skillicons.dev/icons?i=docker" height="40" /> <b>DevOps</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" height="40" /> <b>MERN Stack</b> &nbsp;&nbsp;
 </p>
 
 ---

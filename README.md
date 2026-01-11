@@ -10,7 +10,7 @@ I specialize in building **scalable full-stack applications**, crafting **intera
 - 🌍 Based in **Pune, India**  
 - 💻 Passionate about **Web Development, Cloud, and Linux Systems**  
 - 🧑‍💻 Currently learning **Advanced DSA & React.js**  
-- 🖥️ Portfolio: [aftab-portfolio-web.netlify.app](http://aftab-portfolio-web.netlify.app)  
+- 🖥️ Portfolio: [aftab-portfolio-web.netlify.app](http://www.aftabattar.cloud)  
 - 📧 Reach me at: **aftabattar0045@gmail.com**  
 
 ---
